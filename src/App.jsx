@@ -13,12 +13,12 @@ function App() {
             <input
               type="text"
               placeholder="username"
-              className="bg-transparent text-xl border border-t-0 border-l-0 border-r-0 focus:outline-none text-white tracking-wide"
+              className="bg-transparent text-xl w-64 border border-t-0 border-l-0 border-r-0 focus:outline-none text-white tracking-wide"
             />
             <input
               type="password"
               placeholder="password"
-              className="bg-transparent  text-xl border border-t-0 border-l-0 border-r-0 focus:outline-none text-white tracking-wide"
+              className="bg-transparent  text-xl w-64 border border-t-0 border-l-0 border-r-0 focus:outline-none text-white tracking-wide"
             />
             <input
               type="Submit"
