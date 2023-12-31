@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App bg-image">
       <Tilt className="h-screen flex items-center justify-center">
-        <div className="container h-96 w-96 bg-white bg-opacity-10 rounded-2xl shadow-5xl relative z-2 border border-opacity-30 border-r-0 border-b-0 backdrop-filter backdrop-blur-sm">
+        <div className="container md:h-96 md:w-96 w-72 h-72 bg-white bg-opacity-10 rounded-2xl shadow-5xl relative z-2 border border-opacity-30 border-r-0 border-b-0 backdrop-filter backdrop-blur-sm">
           <form className="h-full flex flex-col justify-evenly items-center">
             <div className="text-white font-semibold text-2xl tracking-widest">
               Login form
